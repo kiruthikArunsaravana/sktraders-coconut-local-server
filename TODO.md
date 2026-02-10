@@ -1,0 +1,3 @@
+- [x] Implement handleEditCoconut function to set editing mode and populate form with existing data
+- [x] Implement handleUpdateCoconut function to update coconut input and save changes
+- [x] Add functionality to dynamically add new clients in the client selection popover
